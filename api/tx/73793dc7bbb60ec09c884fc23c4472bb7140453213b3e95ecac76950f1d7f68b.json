@@ -1,0 +1,17 @@
+{
+  "txid": "73793dc7bbb60ec09c884fc23c4472bb7140453213b3e95ecac76950f1d7f68b",
+  "version": 2,
+  "locktime": 0,
+  "vin": [],
+  "vout": [
+    {
+      "n": 0,
+      "scriptpubkey_address": "bc1qrjt8umwlgn4zpjjfqm6duk2wqartzpf8a4pme8",
+      "value": 10000000000
+    }
+  ],
+  "status": {
+    "confirmed": true,
+    "block_time": 1726200000
+  }
+}
